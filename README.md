@@ -20,7 +20,9 @@ Download the files from the [releases](https://github.com/jamiestraw/devtools-da
 
 ### iTerm2
 
-Coming soon
+1. Go to `Preferences > Profiles > Colors > Color Presets > Import`
+2. Select the `Devtools Dark.itermcolors` file.
+3. Restart iTerm2
 
 ## Screenshots
 
