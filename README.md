@@ -26,6 +26,9 @@ Download the files from the [releases](https://github.com/jamiestraw/devtools-da
 
 ## Screenshots
 
-The font used in the screenshots is [Source Code Pro](https://github.com/adobe-fonts/source-code-pro).
+- Font: [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+- ZSH Theme: [Powerlevel9k](https://github.com/bhilburn/powerlevel9k)
 
 ![Screenshot 1](https://github.com/jamiestraw/devtools-dark-theme/raw/master/screenshots/screenshot1.png)
+
+![Screenshot 2](https://github.com/jamiestraw/devtools-dark-theme/raw/master/screenshots/screenshot2.png)
