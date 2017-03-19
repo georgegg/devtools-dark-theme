@@ -3,7 +3,7 @@
     <property name="created">2017-03-13T16:48:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-03-19T14:38:56</property>
+    <property name="modified">2017-03-19T15:17:10</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -38,7 +38,7 @@
     <option name="FILESTATUS_addedOutside" value="9ef8b3" />
     <option name="FILESTATUS_changelistConflict" value="ec3d34" />
     <option name="FILESTATUS_modifiedOutside" value="9a7cd8" />
-    <option name="GUTTER_BACKGROUND" value="272727" />
+    <option name="GUTTER_BACKGROUND" value="2c2c2c" />
     <option name="HTML_TAG_TREE_LEVEL0" value="ff0000" />
     <option name="HTML_TAG_TREE_LEVEL1" value="ffff00" />
     <option name="HTML_TAG_TREE_LEVEL2" value="ff00" />
@@ -46,7 +46,7 @@
     <option name="HTML_TAG_TREE_LEVEL4" value="589df6" />
     <option name="HTML_TAG_TREE_LEVEL5" value="ff00ff" />
     <option name="INDENT_GUIDE" value="404040" />
-    <option name="LINE_NUMBERS_COLOR" value="747474" />
+    <option name="LINE_NUMBERS_COLOR" value="7f7f7f" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="9a7cd8" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
@@ -449,7 +449,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d9d9d9" />
-        <option name="BACKGROUND" value="212021" />
+        <option name="BACKGROUND" value="242424" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
