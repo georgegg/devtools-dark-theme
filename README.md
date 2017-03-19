@@ -26,4 +26,4 @@ Download the files from the [releases](https://github.com/jamiestraw/devtools-da
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/jamiestraw/devtools-darktheme/raw/master/screenshots/screenshot1.png)
+![Screenshot 1](https://github.com/jamiestraw/devtools-dark-theme/raw/master/screenshots/screenshot1.png)
