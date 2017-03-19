@@ -26,4 +26,6 @@ Download the files from the [releases](https://github.com/jamiestraw/devtools-da
 
 ## Screenshots
 
+The font used in the screenshots is [Source Code Pro](https://github.com/adobe-fonts/source-code-pro).
+
 ![Screenshot 1](https://github.com/jamiestraw/devtools-dark-theme/raw/master/screenshots/screenshot1.png)
