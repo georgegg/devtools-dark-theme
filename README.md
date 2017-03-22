@@ -2,6 +2,9 @@
 
 > 🎨 Dark theme for PHPStorm & iTerm2 inspired by chrome dev tools
 
+![Downloads](https://img.shields.io/github/downloads/jamiestraw/devtools-dark-theme/total.svg)
+![Release](https://img.shields.io/github/release/jamiestraw/devtools-dark-theme.svg)
+
 ## Installation
 
 Download the files from the [releases](https://github.com/jamiestraw/devtools-dark-theme/releases) page.
