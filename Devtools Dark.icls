@@ -3,7 +3,7 @@
     <property name="created">2017-03-13T16:48:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-03-23T11:40:59</property>
+    <property name="modified">2017-03-23T11:46:55</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -348,7 +348,9 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="d2c057" />
         <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="d2c057" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -370,7 +372,9 @@
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="d2c057" />
         <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="d2c057" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
