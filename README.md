@@ -7,7 +7,7 @@
 
 ## Installation
 
-Download the files from the [releases](https://github.com/jamiestraw/devtools-dark-theme/releases) page.
+Download the theme files from the latest [release](https://github.com/jamiestraw/devtools-dark-theme/releases).
 
 ### PHPStorm
 
