@@ -3,7 +3,7 @@
     <property name="created">2017-03-13T16:48:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-03-22T16:11:32</property>
+    <property name="modified">2017-03-23T11:40:59</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -66,6 +66,31 @@
       <value>
         <option name="EFFECT_COLOR" value="e93f3b" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="242424" />
+        <option name="BACKGROUND" value="d2c057" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="d9d9d9" />
+        <option name="BACKGROUND" value="7f7f7f" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="242424" />
+        <option name="BACKGROUND" value="d9d9d9" />
+        <option name="EFFECT_COLOR" value="aaaaaa" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value>
+        <option name="FOREGROUND" value="d9d9d9" />
+        <option name="BACKGROUND" value="7f7f7f" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
