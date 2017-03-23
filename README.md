@@ -16,7 +16,7 @@ Download the theme files from the latest [release](https://github.com/jamiestraw
   - Windows: `C:\Users\<username>\PhpStorm<version>\config\colors`
   - Linux:  `/home/<username>/PhpStorm<version>/config/colors`
   
-  Replace `PhpStorm<version>` with the version of PhpStorm you use, e.g. `PhpStorm2016.3`
+  Replace `PhpStorm<version>` with the version of PhpStorm you use, e.g. `PhpStorm2017.1`
 
 2. Restart PhpStorm
 3. Go to `Preferences > Editor > Colors & Fonts` and select the `Devtools Dark` scheme.
