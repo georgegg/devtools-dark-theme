@@ -4,7 +4,7 @@
     <property name="created">2017-03-13T16:48:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-03-23T16:22:11</property>
+    <property name="modified">2017-03-24T16:27:29</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -306,26 +306,26 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="6d3637" />
-        <option name="ERROR_STRIPE_COLOR" value="b95e66" />
+        <option name="BACKGROUND" value="341c36" />
+        <option name="ERROR_STRIPE_COLOR" value="96509b" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="f2734" />
-        <option name="ERROR_STRIPE_COLOR" value="83d59" />
+        <option name="BACKGROUND" value="4f0a09" />
+        <option name="ERROR_STRIPE_COLOR" value="e93f3b" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="434f39" />
-        <option name="ERROR_STRIPE_COLOR" value="66804f" />
+        <option name="BACKGROUND" value="64715" />
+        <option name="ERROR_STRIPE_COLOR" value="a1f7b5" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="425452" />
-        <option name="ERROR_STRIPE_COLOR" value="4e6966" />
+        <option name="BACKGROUND" value="f004c" />
+        <option name="ERROR_STRIPE_COLOR" value="997fff" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
