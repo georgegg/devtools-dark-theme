@@ -29,4 +29,11 @@ Download the theme files from the latest [release](https://github.com/jamiestraw
 
 ## Screenshots
 
-Coming soon.
+- Font: [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+- ZSH Theme: [Powerlevel9k](https://github.com/bhilburn/powerlevel9k)		
+		
+### Screenshot 1		
+![Screenshot 1](https://github.com/jamiestraw/devtools-dark-theme/raw/master/screenshot1.png)		
+
+### Screenshot 2
+![Screenshot 2](https://github.com/jamiestraw/devtools-dark-theme/raw/master/screenshot2.png)
